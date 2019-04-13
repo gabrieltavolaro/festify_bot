@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         Dj Festify
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Festify voting machine
+// @author       Us
 // @match        https://festify.us/party/-LcMDRlQDBR9Cyqtu59w
 // @grant        none
 // ==/UserScript==
