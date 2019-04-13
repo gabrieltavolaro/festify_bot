@@ -12,8 +12,6 @@
     'use strict';
     setTimeout(function(){
 
-        //fetch('http://0.0.0.0:8000/music.txt').then(x => x.text()).then(j => console.log(j));
-
         var musica = "Cheap Thrills";
 
         var lista = document.querySelector('body > app-shell').shadowRoot.querySelector('view-party').shadowRoot.querySelector('app-drawer-layout > div > iron-pages > party-queue').shadowRoot.querySelector('dom-flip').querySelectorAll('party-track')
