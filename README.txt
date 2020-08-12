@@ -8,7 +8,7 @@ Tutorial:
 1. Baixe o plugin Tampermonkey em seu navegador (Chrome ou Firefox)
 2. Clique no ícone do Tampermonkey, na barra lateral, e então em Painel de Opções
 3. Clique no ícone de Novo Userscript
-4. Copie e cole o conteúdo do DjFestify.js
+4. Copie e cole o conteúdo do festifybot.js
 5. Insira na variável 'musica' a música que deseja (ela já deve estar na lista de queue)
 6. Divirta-se ;)
 
